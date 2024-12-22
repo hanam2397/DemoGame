@@ -1,0 +1,4 @@
+newmtl Model001_Material001
+map_Kd bathroom_set.png
+map_bump bumpmap_alt.png
+

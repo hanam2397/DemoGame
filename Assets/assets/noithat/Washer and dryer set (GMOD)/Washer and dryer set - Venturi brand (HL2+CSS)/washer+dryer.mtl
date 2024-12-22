@@ -1,0 +1,8 @@
+newmtl Model001_Material001
+map_Kd dryer.png
+map_bump bumpmap_flat.png
+
+newmtl Model002_Material001
+map_Kd FurnitureWashingMachine001a.png
+map_bump bumpmap_flat.png
+

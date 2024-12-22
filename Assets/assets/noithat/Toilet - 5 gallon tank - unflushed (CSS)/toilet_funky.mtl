@@ -1,0 +1,6 @@
+newmtl Model001_Material001
+map_Kd toilet.png
+
+newmtl Model001_Material002
+map_Kd floater_juice.png
+

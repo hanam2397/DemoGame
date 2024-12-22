@@ -1,0 +1,8 @@
+newmtl Model001_Material001
+map_Kd garden_hose001.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material002
+map_Kd off-black.png
+map_bump bumpmap_alt.png
+

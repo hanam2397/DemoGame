@@ -1,0 +1,16 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 09.12.2014 18:33:02
+
+newmtl Material__67
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka D:\Games\Game of Thrones\AGOTGame\CookedPC\Maps\KingsLanding\готово_RedKeep_ОН\UmodelExport\RK_env_ThroneRoom\Texture2D\Bookcase01_DIFF.tga
+	map_Kd D:\Games\Game of Thrones\AGOTGame\CookedPC\Maps\KingsLanding\готово_RedKeep_ОН\UmodelExport\RK_env_ThroneRoom\Texture2D\Bookcase01_DIFF.tga

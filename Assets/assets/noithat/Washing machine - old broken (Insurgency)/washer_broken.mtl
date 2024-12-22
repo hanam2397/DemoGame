@@ -1,0 +1,4 @@
+newmtl Model001_Material001
+map_Kd wash_skin01_spi.png
+map_bump bumpmap_alt.png
+
