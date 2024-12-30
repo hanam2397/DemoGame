@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ingame_screen.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/officemaps.unity
+    guid: cc855a45dc62bb8479a2ca85a707b08a
   m_configObjects: {}

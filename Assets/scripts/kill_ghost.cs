@@ -42,12 +42,12 @@ public class kill_ghost : MonoBehaviour
     IEnumerator hidetime()
     {
         yield return new WaitForSeconds(2f);
-        ghost.SetActive(false);
+        //ghost.SetActive(false);
     }
 
     IEnumerator LoadSceneMode()
     {
-        yield return new WaitForSeconds(5f);
+        yield return new WaitForSeconds(2f);
         SceneManager.LoadScene(1);
     }
 }

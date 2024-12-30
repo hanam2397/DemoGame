@@ -19,4 +19,29 @@ public class menu_function : MonoBehaviour
         SceneManager.LoadScene(2);
         yield return new WaitForSeconds(1f);
     }
+
+    public void NewGameBtn_officemap()
+    {
+        StartCoroutine(newgame_officemap());
+    }
+
+    IEnumerator newgame_officemap()
+    {
+        loadingtext.SetActive(true);
+        SceneManager.LoadScene(3);
+        yield return new WaitForSeconds(1f);
+    }
+
+    public void ExitGame_function()
+    {
+        StartCoroutine(exitgame());
+    }
+
+    IEnumerator exitgame()
+    {
+
+        Application.Quit();
+        yield return new WaitForSeconds(0f);
+
+    }
 }

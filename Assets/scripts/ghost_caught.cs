@@ -24,16 +24,16 @@ public class ghost_caught : MonoBehaviour
         //        player.GetComponent<FirstPersonController>().enabled = false;
         //        StartCoroutine(Scene_Dead());
         //    }
-        void OnTriggerEnter(Collider other)
-        {
-            if (other.gameObject == player)
-            {
-                StartCoroutine(Scene_Dead());
-            }
-        }
+        
     }
 
-    
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject == player)
+        {
+            StartCoroutine(Scene_Dead());
+        }
+    }
 
 
     IEnumerator Scene_Dead()

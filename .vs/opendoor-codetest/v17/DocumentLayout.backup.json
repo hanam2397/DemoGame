@@ -3,60 +3,40 @@
   "WorkspaceRootPath": "D:\\unity\\project\\opendoor-codetest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|d:\\unity\\project\\opendoor-codetest\\assets\\scripts\\office_scr\\ghost_caught_dead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\office_scr\\ghost_caught_dead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|d:\\unity\\project\\opendoor-codetest\\assets\\scripts\\ghost_caught.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ghost_caught.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\guide1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\guide1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\pausegame_scr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausegame_scr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\doorghost_open.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doorghost_open.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\menu_script\\showcursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu_script\\showcursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\get_ammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\get_ammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\playercasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\menu_script\\menu_function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu_script\\menu_function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\logo_scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logo_scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\gunfired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gunfired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\kill_ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kill_ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\pickup_gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickup_gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\enemy_follow\\chase scr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy_follow\\chase scr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\office_scr\\fired_office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\office_scr\\fired_office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\reviewgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\reviewgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\modularfirstpersoncontroller\\firstpersoncontroller\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\modularfirstpersoncontroller\\firstpersoncontroller\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\startgamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startgamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\closedoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\closedoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|D:\\unity\\project\\opendoor-codetest\\assets\\scripts\\get_ammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284B9994-F398-7084-ED6C-BC92D36755F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\get_ammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,64 +51,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ghost_caught.cs",
-              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\ghost_caught.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\ghost_caught.cs",
-              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\ghost_caught.cs",
-              "RelativeToolTip": "Assets\\scripts\\ghost_caught.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwB4AAAAKAAAAAAAAAA==",
+              "Title": "ghost_caught_dead.cs",
+              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\office_scr\\ghost_caught_dead.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\office_scr\\ghost_caught_dead.cs",
+              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\office_scr\\ghost_caught_dead.cs",
+              "RelativeToolTip": "Assets\\scripts\\office_scr\\ghost_caught_dead.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T02:46:45.881Z",
+              "WhenOpened": "2024-12-30T15:10:19.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Guide1.cs",
-              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\Guide1.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Guide1.cs",
-              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\Guide1.cs",
-              "RelativeToolTip": "Assets\\scripts\\Guide1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBkAAAAIAAAAAAAAAA==",
+              "Title": "ghost_caught.cs",
+              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\ghost_caught.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ghost_caught.cs",
+              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\ghost_caught.cs",
+              "RelativeToolTip": "Assets\\scripts\\ghost_caught.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T02:32:12.538Z",
+              "WhenOpened": "2024-12-30T15:09:45.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PlayerCasting.cs",
-              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\PlayerCasting.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerCasting.cs",
-              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\PlayerCasting.cs",
-              "RelativeToolTip": "Assets\\scripts\\PlayerCasting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:03:47.92Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "get_ammo.cs",
-              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\get_ammo.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\get_ammo.cs",
-              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\get_ammo.cs",
-              "RelativeToolTip": "Assets\\scripts\\get_ammo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Title": "ShowCursor.cs",
+              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\menu_script\\ShowCursor.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\menu_script\\ShowCursor.cs",
+              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\menu_script\\ShowCursor.cs",
+              "RelativeToolTip": "Assets\\scripts\\menu_script\\ShowCursor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T14:30:30.57Z"
+              "WhenOpened": "2024-12-30T14:01:51.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "gunfired.cs",
-              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\gunfired.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\gunfired.cs",
-              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\gunfired.cs",
-              "RelativeToolTip": "Assets\\scripts\\gunfired.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwDIAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "pausegame_scr.cs",
+              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\pausegame_scr.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\pausegame_scr.cs",
+              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\pausegame_scr.cs",
+              "RelativeToolTip": "Assets\\scripts\\pausegame_scr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T02:25:49.296Z"
+              "WhenOpened": "2024-12-29T16:25:38.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "menu_function.cs",
+              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\menu_script\\menu_function.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\menu_script\\menu_function.cs",
+              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\menu_script\\menu_function.cs",
+              "RelativeToolTip": "Assets\\scripts\\menu_script\\menu_function.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:18:12.37Z"
             },
             {
               "$type": "Document",
@@ -138,105 +118,45 @@
               "RelativeDocumentMoniker": "Assets\\scripts\\logo_scene.cs",
               "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\logo_scene.cs",
               "RelativeToolTip": "Assets\\scripts\\logo_scene.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T02:42:47.533Z"
+              "WhenOpened": "2024-12-29T16:16:32.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "kill_ghost.cs",
-              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\kill_ghost.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\kill_ghost.cs",
-              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\kill_ghost.cs",
-              "RelativeToolTip": "Assets\\scripts\\kill_ghost.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T05:52:46.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "doorghost_open.cs",
-              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\doorghost_open.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\doorghost_open.cs",
-              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\doorghost_open.cs",
-              "RelativeToolTip": "Assets\\scripts\\doorghost_open.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T02:57:56.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "pickup_gun.cs",
               "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\pickup_gun.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\pickup_gun.cs",
               "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\pickup_gun.cs",
               "RelativeToolTip": "Assets\\scripts\\pickup_gun.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwCYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T14:35:17.567Z"
+              "WhenOpened": "2024-12-29T15:38:05.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Chase Scr.cs",
-              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\enemy_follow\\Chase Scr.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\enemy_follow\\Chase Scr.cs",
-              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\enemy_follow\\Chase Scr.cs",
-              "RelativeToolTip": "Assets\\scripts\\enemy_follow\\Chase Scr.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAQwGoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "fired_office.cs",
+              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\office_scr\\fired_office.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\office_scr\\fired_office.cs",
+              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\office_scr\\fired_office.cs",
+              "RelativeToolTip": "Assets\\scripts\\office_scr\\fired_office.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T16:27:41.305Z"
+              "WhenOpened": "2024-12-29T15:32:36.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "reviewgun.cs",
-              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\reviewgun.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\reviewgun.cs",
-              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\reviewgun.cs",
-              "RelativeToolTip": "Assets\\scripts\\reviewgun.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwCcAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "get_ammo.cs",
+              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\get_ammo.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\get_ammo.cs",
+              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\get_ammo.cs",
+              "RelativeToolTip": "Assets\\scripts\\get_ammo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T15:47:01.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FirstPersonController.cs",
-              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
-              "RelativeDocumentMoniker": "Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
-              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
-              "RelativeToolTip": "Assets\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwBAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T01:17:09.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StartGameScene.cs",
-              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\StartGameScene.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\StartGameScene.cs",
-              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\StartGameScene.cs",
-              "RelativeToolTip": "Assets\\scripts\\StartGameScene.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T14:11:50.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CloseDoor.cs",
-              "DocumentMoniker": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\CloseDoor.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\CloseDoor.cs",
-              "ToolTip": "D:\\unity\\project\\opendoor-codetest\\Assets\\scripts\\CloseDoor.cs",
-              "RelativeToolTip": "Assets\\scripts\\CloseDoor.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDUAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T02:07:43.752Z"
+              "WhenOpened": "2024-11-27T14:30:30.57Z"
             }
           ]
         }
